@@ -55,7 +55,7 @@ This is a documentation assistant agent that helps answer questions about LangCh
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/Manujain19/langgraph-docs-ai-assistant.git
 cd chat-langchain
 
 # Install dependencies with uv
