@@ -1,4 +1,4 @@
-**Maintained & Customized by: Manu Jain**
+**Maintained & Customized by: Manu Jain and Smruti Gujar**
 
 
 # Chat LangChain
